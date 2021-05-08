@@ -11,7 +11,7 @@ anyjson==0.3.3
 asgiref==3.2.7
 billiard==3.6.3.0
 dnspython==1.16.0
-eventlet==0.25.2
+eventlet==0.31.0
 greenlet==0.4.15
 importlib-metadata==1.6.0
 jmespath==0.10.0
