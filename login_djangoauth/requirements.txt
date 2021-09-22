@@ -3,7 +3,7 @@ PyMySQL==0.9.3
 aliyun-python-sdk-core-v3==2.13.11
 celery==4.4.2
 configparser==5.0.0
-Django==3.0.6
+Django==3.1.13
 django-celery==3.3.1
 django-redis==4.11.0
 amqp==2.5.2
